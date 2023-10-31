@@ -4,7 +4,7 @@ package org.example;
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        int zahl = 7;
+        int zahl = 10;
         System.out.println(geradeZahl(zahl));
     }
 
@@ -20,5 +20,7 @@ public class Main {
         }
 
     }
+
 }
+
 
